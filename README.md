@@ -21,3 +21,6 @@ Descubra como utilizar a ferramenta Rake para automação de tarefas em projetos
 Conecte-se com a apaixonada comunidade Ruby. Encontre recursos úteis, tutoriais e gemas que podem impulsionar seu desenvolvimento em Ruby. Explore a riqueza da linguagem e inspire-se para criar software elegante e funcional.
 
 Desfrute da jornada Ruby e leve suas habilidades de programação para novas alturas! 🚀
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
